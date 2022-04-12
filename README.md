@@ -15,3 +15,6 @@ For each year I calculated the following information:
 •	Lost Customers
 
 Additionally, generated a few unique plots highlighting some information from the dataset. 
+
+Link to dataset: https://www.dropbox.com/sh/xhy2fzjdvg3ykhy/AADAVKH9tgD_dWh6TZtOd34ia?dl=0![image](https://user-images.githubusercontent.com/90282625/163040271-4a274734-3d7f-40b0-babd-7a4553c80c46.png)
+
